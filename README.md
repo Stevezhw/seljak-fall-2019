@@ -1,6 +1,6 @@
 Look for files in docs/ directory
 
-https://phy151-ucb.github.io/seljak-phy151-fall-2018/
+https://phy188-288-ucb.github.io/seljak-fall-2019/
 
 To build locally,
 
