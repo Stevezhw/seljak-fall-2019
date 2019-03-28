@@ -1,4 +1,4 @@
-site_name: "Data Science and Bayesian Statistics"
+site_name: "Bayesian Data Analysis and Machine Learning for Physical Sciences"
 theme: readthedocs
 theme_dir: 'readthedocs_custom'
 edit_uri: edit/master/docs/
