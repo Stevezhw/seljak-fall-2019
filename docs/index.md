@@ -11,9 +11,9 @@ Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: TBD
 
-Lecture: **TBD** <br>
-Discussion: **TBD** <br>
-Units: **4.0**
+Lecture: <b>TBD</b> <br>
+Discussion: <b>TBD</b> <br>
+Units: <b>4.0</b>
 
 
 
