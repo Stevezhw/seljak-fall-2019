@@ -12,7 +12,7 @@ GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: TBD
 
 Lecture: TBD <br>
-Discussion: TBD
+Discussion: TBD <br>
 Units: 4.0
 
 
