@@ -2,7 +2,7 @@
 
 **PHY188/288: Fall 2019**
 
-Data Science and Bayesian Statistics
+Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
 Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
@@ -13,6 +13,7 @@ GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 
 Lecture: TBD <br>
 Discussion: TBD
+Units: 4.0
 
 
 
