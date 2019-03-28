@@ -9,7 +9,7 @@ To build locally,
 
     git clone ...
 
-    cd seljak-phy151-fall-2017
+    cd seljak-fall-2019
 
     git pull
 
