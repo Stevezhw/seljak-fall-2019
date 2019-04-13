@@ -96,7 +96,7 @@ References: NR Ch. 12, 13
 
 References: NR Ch. 17, 18, 20
 
-**Classification and inference with machine learning**: supervised and unsupervised learning, naive Bayes, Decision Tree-Based methods, random forest, neural networks, deep networks, automated differentiation: back and forward propagation, inference: logistic function, ReLU
+**Classification and inference with machine learning**: supervised and unsupervised learning, naive Bayes, Decision Tree-Based methods, random forest, neural networks, deep networks, adversarial networks and VAE, automated differentiation: back and forward propagation, inference: logistic function, ReLU
 
 References: NR Ch. 16
 
