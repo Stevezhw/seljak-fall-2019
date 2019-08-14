@@ -86,6 +86,7 @@ Past Assignments:
 To download a Jupyter notebook, right click the link and save it as an .ipynb file.
 
  - **HW1** 
+ 
  (Numerical Integration and ODE/PDEs): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW1.ipynb)
  
  - **HW2** (Intro to Statistics): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.ipynb)
