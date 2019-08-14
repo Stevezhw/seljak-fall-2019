@@ -11,13 +11,13 @@ Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: TBD
 
-Lecture: <b>TBD</b> <br>
-Discussion: <b>TBD</b> <br>
+Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, 251 LeConte Hall </b> <br>
+Discussion: <b>Wednesday 2:00PM-3:00PM, 251 LeConte Hall </b> <br>
 Units: <b>4.0</b>
 
 
 
-Class Number: TBD
+Class Number: 32821
 
 Course Syllabus
 ---------------
