@@ -9,7 +9,7 @@ Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
 &nbsp; Office hours: Thursday 11:00AM-12:00PM, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
-&nbsp; Office hours: Monday 3:00PM-4:00PM
+&nbsp; Office hours: Monday 3:00PM-4:00PM, Location TBD.
 
 GSI: Biwei Dai, biwei@berkeley.edu <br>
 &nbsp; Office hours: TBD
