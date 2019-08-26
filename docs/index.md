@@ -16,7 +16,7 @@ GSI: Biwei Dai, biwei@berkeley.edu <br>
 
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, 251 LeConte Hall </b> <br>
 Discussion: <b>Wednesday 12:00PM-1:00PM </b> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 2:00PM-3:00PM, 251 LeConte Hall </b> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 2:00PM-3:00PM, 251 LeConte Hall </b> <br>
 Units: <b>4.0</b>
 
 
