@@ -6,9 +6,12 @@ Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
 Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
-&nbsp; Office hours: TBD, Campbell 359 (knock on the glass door if you do not have access)
+&nbsp; Office hours: Thursday 11:00AM-12:00PM, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
+&nbsp; Office hours: Monday 3:00PM-4:00PM
+
+GSI: Biwei Dai, biwei@berkeley.edu <br>
 &nbsp; Office hours: TBD
 
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, 251 LeConte Hall </b> <br>
