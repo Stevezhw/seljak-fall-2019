@@ -9,6 +9,8 @@ Lecture Notes
  - [Lecture 2: Intro to Statistics](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture2_new.pdf
     )
+    
+    
 <!-- - [Lecture 3: More Statistics and Intro to Data Modeling](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture3_new.pdf
     )
