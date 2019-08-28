@@ -50,5 +50,5 @@ Lecture Notes
        https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/lecture-1.pdf)-->
 
 
-A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)
+<!-- A full list can be found at on [github](https://github.com/phy188-288-ucb/seljak-fall-2019/tree/master/lecture-notes/)
 
