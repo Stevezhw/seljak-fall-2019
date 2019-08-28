@@ -91,7 +91,7 @@ To download a Jupyter notebook, right click the link and save it as an .ipynb fi
  
  - **HW2** (Intro to Statistics): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW2.ipynb)
  
- - **HW3** (Intro to Statistics - Part 2): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-20198/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.ipynb)
+ - **HW3** (Intro to Statistics - Part 2): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW3.ipynb)
 
  - **HW4** (Linear Algebra and Data Modeling): [PDF](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/Homework/HW4.ipynb)
 
