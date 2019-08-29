@@ -12,7 +12,7 @@ GSI: Byeonghee Yu (DIS101), bhyu@berkeley.edu, <br>
 &nbsp; Office hours: Monday 3:30PM-4:30PM, 325 LeConte Hall.
 
 GSI: Biwei Dai (DIS102), biwei@berkeley.edu <br>
-&nbsp; Office hours: TBD.
+&nbsp; Office hours: Monday 4:30PM-5:30PM, 325 LeConte Hall.
 
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, 251 LeConte Hall </b> <br>
 Discussion: <b>Wednesday 1:00PM-2:00PM, 325 LeConte Hall </b> <br>
