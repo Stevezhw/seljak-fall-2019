@@ -10,6 +10,8 @@ which contains the most updated information.
  - Python Tutorial: [Intro to Python](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/PythonTutorial/IntrotoPython.ipynb) (source:  https://github.com/berkeley-physics/intro_python)
  - **HW1 (due Sept 9, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW1/HW1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW1/HW1_288.ipynb)
  - **HW2 (due Sept 16, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW2/HW2_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW2/HW2_288.ipynb)
+ - **HW3 (due Sept 23, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW3/HW3_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW3/HW3_288.ipynb)
+
 
 
 <!-- - HW1 (due Sept 4, 11:59pm): [Undergraduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_U.ipynb)/    [Graduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_G.ipynb)
