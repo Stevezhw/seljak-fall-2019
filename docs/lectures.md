@@ -12,6 +12,9 @@ Lecture Notes
  - [Lecture 3: More Statistics and Intro to Data Modeling](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture3_new.pdf
     )
+ - [Lecture 4: Linear Algebra](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture4_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
