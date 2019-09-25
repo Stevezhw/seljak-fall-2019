@@ -15,6 +15,9 @@ Lecture Notes
  - [Lecture 4: Linear Algebra](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture4_new.pdf
     )
+ - [Lecture 5: Information Theory, Entropy, Experiment Design](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture5_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
