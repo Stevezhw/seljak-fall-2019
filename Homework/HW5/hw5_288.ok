@@ -2,7 +2,7 @@
   "name": "Homework 5",
   "endpoint": "cal/phy188288/fa19/assignment5",
   "src": [
-    "HW4_288.ipynb"
+    "HW5_288.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
