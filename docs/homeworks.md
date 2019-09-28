@@ -12,6 +12,7 @@ which contains the most updated information.
  - **HW2 (due Sept 16, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW2/HW2_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW2/HW2_288.ipynb)
  - **HW3 (due Sept 23, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW3/HW3_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW3/HW3_288.ipynb)
  - **HW4 (due Sept 30, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW4/HW4_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW4/HW4_288.ipynb)
+ - **HW5 (due Oct 7, 11:59pm)**: [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW5/HW5_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2019&branch=master&path=Homework/HW5/HW5_288.ipynb)
 
 
 
