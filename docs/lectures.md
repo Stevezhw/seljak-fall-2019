@@ -24,6 +24,9 @@ Lecture Notes
  - [Lecture 7: Monte Carlo Sampling and Integration](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture7_new.pdf
     )
+ - [Lecture 8: Advanced Bayesian Concepts (Probabilistic graphical models, Hierarchical Bayesian models, etc)](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture8_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
