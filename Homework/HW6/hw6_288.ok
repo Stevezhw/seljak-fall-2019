@@ -1,8 +1,8 @@
 {
-  "name": "Homework 5",
-  "endpoint": "cal/phy151/fa18/assignment5",
+  "name": "Homework 6",
+  "endpoint": "cal/phy188288/fa19/assignment6",
   "src": [
-    "HW5_G.ipynb"
+    "HW6_288.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
