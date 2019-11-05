@@ -30,6 +30,9 @@ Lecture Notes
  - [Lecture 9: Distributional Approximations](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture9_new.pdf
     )
+ - [Lecture 10: Best Practices of Statistical Analysis](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture10_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
