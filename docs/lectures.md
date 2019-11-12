@@ -33,6 +33,9 @@ Lecture Notes
  - [Lecture 10: Best Practices of Statistical Analysis](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture10_new.pdf
     )
+ - [Lecture 11: From Interpolation to Regressions to Gaussian Processes](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture11_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
