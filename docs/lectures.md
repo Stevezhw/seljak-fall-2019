@@ -36,6 +36,9 @@ Lecture Notes
  - [Lecture 11: From Interpolation to Regressions to Gaussian Processes](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture11_new.pdf
     )
+ - [Lecture 12: Fourier Methods](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture12_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
