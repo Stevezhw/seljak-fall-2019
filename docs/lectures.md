@@ -42,6 +42,9 @@ Lecture Notes
  - [Lecture 13: Classification](
        https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture13_new.pdf
     )
+ - [Lecture 14: Neural Networks, Deep Networks, Convolutional Nets, etc](
+       https://raw.githubusercontent.com/phy188-288-ucb/seljak-fall-2019/master/lecture-notes/Lecture14_new.pdf
+    )
     
 <!-- 
  - [Lecture 4: Linear Algebra](
