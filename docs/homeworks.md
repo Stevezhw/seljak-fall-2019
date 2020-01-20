@@ -7,7 +7,8 @@ This page contains a list of links to PHY188/288 homeworks.
 You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
 which contains the most updated information. 
 
- - Python Tutorial: [Intro to Python](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/PythonTutorial/IntrotoPython.ipynb) (source:  https://github.com/berkeley-physics/intro_python)
+ - Python Tutorial: 
+&nbsp &nbsp[Intro to Python](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/PythonTutorial/IntrotoPython.ipynb) (source:  https://github.com/berkeley-physics/intro_python)
  - **HW1 (Numerical Integration and ODE/PDEs)**: [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW1/HW1_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW1/HW1_288.ipynb)
  - **HW2 (Intro to Statistics)**: [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW2/HW2_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW2/HW2_288.ipynb)
  - **HW3 (Intro to Data Analysis, Dimensionality Reduction, and Clustering)**: [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW3/HW3_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW3/HW3_288.ipynb)
