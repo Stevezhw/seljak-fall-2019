@@ -30,7 +30,7 @@ which contains the most updated information.
  - **HW8 part 1 (VI, EL2O, Generative Models, Multimodal Posteriors, and Gaussian Processes)**: 
  <br> &nbsp; &nbsp; [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW8/notebooks/HW8_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW8/notebooks/HW8_288.ipynb)
  - **Project 2 (LIGO analysis - Fourier methods, Matched Filtering, and Differential Equations)**: 
- <br> &nbsp; &nbsp; [Physics 188](hhttps://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project2/Project2_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project2/Project2_288.ipynb)
+ <br> &nbsp; &nbsp; [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project2/Project2_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/Project2/Project2_288.ipynb)
  - **HW8 part 2 (Linear Regression, Regularization, and Logistic & Softmax Regression)**: 
  <br> &nbsp; &nbsp; [Physics 188](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW8_p2/HW8_p2_188.ipynb)/    [Physics 288](https://nbviewer.jupyter.org/github/phy188-288-ucb/seljak-fall-2019/blob/master/Homework/HW8_p2/HW8_p2_288.ipynb)
  - **Project 3 (Final) (Classification and inference with machine learning)**: 
