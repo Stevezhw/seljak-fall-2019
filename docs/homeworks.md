@@ -1,6 +1,5 @@
 Homeworks 
 =========
-How to access the assignment and submit it to okpy:
 
 This page contains a list of links to PHY188/288 homeworks.
 
@@ -68,6 +67,7 @@ which contains the most updated information.
 
 Instructions
 ------------
+How to access the assignment and submit it to okpy:
 
 During the course of PHY188/288, you will be writing and running the homeworks in the Data8
 IPython Jupyter Notebook environment provided by ``datahub.berkeley.edu``.
