@@ -5,7 +5,7 @@
 Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
-Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
+Instructor: Uro&#353; Seljak, useljak@berkeley.edu <br>
 &nbsp; Office hours: TBD
 
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, Online </b> <br>
